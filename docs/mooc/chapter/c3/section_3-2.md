@@ -1,4 +1,4 @@
-## [3-2 数组](../../../../src/main/kotlin/cn/kk/mooc/KotlinArray.kt)
+## [3-2 数组](../../../../src/main/kotlin/cn/kk/mooc/chapter3/KotlinArray.kt)
 
 **Kotlin vs Java**
 
@@ -18,3 +18,6 @@ val c1 = intArrayOf(1,2,3,4,5)
 // 5 是数组大小，it 是数组下标
 val c2 = IntArray(5){it + 1}
 ```
+
+### 数组的读写
+

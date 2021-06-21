@@ -1,4 +1,4 @@
-#### [3-1 基本类型](../../../../src/main/kotlin/cn/kk/mooc/KotlinBasicTypes.kt)
+#### [3-1 基本类型](../../../../src/main/kotlin/cn/kk/mooc/chapter3/KotlinBasicTypes.kt)
 
 - Byte
 - Int & Long
