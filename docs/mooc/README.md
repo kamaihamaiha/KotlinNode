@@ -5,7 +5,7 @@
 - [第 2 章: 开发环境搭建](./chapter/c2/chapter_2.md)
 - [第 3 章: 内置类型](./chapter/c3/chapter_3.md)
 - [第 4 章: 类型初步](./chapter/c4/chapter_4.md)
-- 第 5 章: 表达式
+- [第 5 章: 表达式](./chapter/c5/chapter_5.md)
 - 第 6 章: 函数进阶
 - 第 7 章: 类型进阶
 - 第 8 章: 泛型
