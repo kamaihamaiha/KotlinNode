@@ -1,6 +1,6 @@
 ## Kotlin
 
-###[课程地址](https://coding.imooc.com/learn/list/398.html)
+### [课程地址](https://coding.imooc.com/learn/list/398.html)
 
 - [第 2 章: 开发环境搭建](./chapter/c2/chapter_2.md)
 - [第 3 章: 内置类型](./chapter/c3/chapter_3.md)
