@@ -20,5 +20,7 @@ fun main(){
     val pair = "hello" to "world"
     val(h, w) = pair
 
+    val idle: State = State.Idle
+    idle.next()
 
 }
