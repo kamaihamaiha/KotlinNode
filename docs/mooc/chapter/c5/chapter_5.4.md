@@ -9,3 +9,7 @@ val func = fun(){
     println("Hello")
 }
 ```
+
+### Lambda 表达式定义
+
+Java 是接口类型的一种语法糖，Kotlin 是匿名函数的语法糖。
