@@ -31,7 +31,7 @@
 
 2. 然后用浏览器打开地址（https://services.gradle.org/distributions/gradle-6.7-bin.zip）下载，下载路径到，用户下的 .gradle ，如图：
 
-   <img src="Codes/android/KotlinNote/docs/mooc/imgs/gradle_download_1.png" alt="image-20210617001703621" style="zoom: 50%;" />
+   <img src="../../imgs/gradle_download_1.png" alt="image-20210617001703621" style="zoom: 50%;" />
 
 3. 下载完成后，解压。
 
